@@ -32,7 +32,7 @@ if (isset($_POST['submit'])) {
     <meta name="Author" content=""/>
     <meta name="Robots" content="index,follow"/>
 
-    
+    <link rel="stylesheet" href="css/style.css" type="text/css"/>
     <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
     <script type="text/javascript">
         $(document).ready(function () {
