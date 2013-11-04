@@ -160,7 +160,7 @@ label {
 ********************************************/ 
 #wrap {
 	width: 790px;
-	
+	background: #CCC url(../images/content.jpg) repeat-y center top;
 	margin: 0 auto;
 	text-align: left;
 }
@@ -180,7 +180,7 @@ label {
 #header {
 	position: relative;
 	height: 131px;
-	
+	background: #caced1 url(../images/header.jpg) no-repeat center top;
 	padding: 0;	
 	color: #fff;	
 }
@@ -212,7 +212,7 @@ label {
 #header #header-links {
 	position: absolute;
 	color: #C6DDEE;
-	
+	font: bold 14px"Trebuchet MS", Arial, Tahoma, Sans-serif;
 	top: 20px; right: 20px;	
 }
 #header #header-links a {	
@@ -330,7 +330,7 @@ label {
 /* Footer */	
 #footer {
 	color: #C6DDEE;
-	
+	background: #caced1 url(../images/footer.jpg) no-repeat center top;
 	clear: both;
 	width: 790px;
 	height: 57px;
