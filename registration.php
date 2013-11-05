@@ -1,4 +1,5 @@
 <?php
+include("models/database.php");
 //destroy session to make sure no entry without login
 if (isset($_SESSION['user'])) {
     session_destroy();
