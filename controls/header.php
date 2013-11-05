@@ -70,4 +70,12 @@ if(!isset($_SESSION['user']) || !isset($_SESSION))
 
     </div>
 
-    
+    <!-- navigation -->
+    <div id="menu">
+        <ul>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="posts.php">Manage Posts</a></li>
+            <li><a href="users.php">Browse Users</a></li>
+            <li><a href="../index.php">Logout</a></li>
+        </ul>
+    </div>
